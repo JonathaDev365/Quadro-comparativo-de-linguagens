@@ -1,0 +1,33 @@
+body {
+  background-color: orangered;
+}
+
+table {
+  border-spacing: 20px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+th {
+  color: #f0f8ff;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+tr {
+  color: #f0f8ff;
+  font-family: sans-serif;
+}
+
+td {
+  color: #f0f8ff;
+  font-family: sans-serif;
+  text-align: justify;
+  font-size: 15px;
+}
